@@ -25,7 +25,7 @@ public class VirtualJudge {
         }catch(Exception e){
         e.printStackTrace();}
         
-    
+    System.out.println("aaaaa");
         
     }
 }
